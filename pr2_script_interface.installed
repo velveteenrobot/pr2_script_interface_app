@@ -1,0 +1,3 @@
+apps:
+  - app: pr2_script_interface_app/pr2_script_interface
+    display: PR2 Script Interface
